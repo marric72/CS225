@@ -1,3 +1,3 @@
 # CS225
 :)
-Hello World!
+penguins r cool
